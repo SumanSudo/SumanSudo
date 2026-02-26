@@ -6,11 +6,15 @@ I'm a **Full-Stack Developer** passionate about building web applications that s
 ---
 
 ## 💻 Skills / Tech Stack
-- **Languages:** JavaScript (ES6+)
-- **Backend:** Node.js, Express.js
-- **Frontend:** React.js
-- **Database:** MongoDB
-- **Other Tools:** Git, GitHub, REST APIs, Postman
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="50" height="50"/>
+</p>
+
 
 ---
 
