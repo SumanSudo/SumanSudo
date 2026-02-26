@@ -16,22 +16,13 @@ I'm a **Full-Stack Developer** passionate about building web applications that s
 
 ## 🚀 Projects
 
-### [FitZenith - Fitness E-Commerce](#)
+### [StyleHub - E-Commerce](#)
 A full-stack fitness e-commerce platform built with **MERN stack**, featuring product browsing, shopping cart, and secure checkout.
 
 ### [Portfolio Website](#)
 My personal portfolio to showcase projects, skills, and contact info. Built with **React** and **modern CSS**.
 
-### [Blog App](#)
-A simple blogging platform where users can create, read, update, and delete posts. Built using **Node.js**, **Express**, and **MongoDB**.
-
 *(More projects coming soon!)*
-
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&theme=radical)
 
 ---
 
