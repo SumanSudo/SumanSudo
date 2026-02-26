@@ -1,4 +1,5 @@
-# Hi there 👋, I'm Suman Sunuwar
+# Hi there 👋, 
+I'm **Suman Sunuwar**
 
 ## 🌟 About Me
 I'm a **Full-Stack Developer** passionate about building web applications that solve real-world problems. I love working with modern JavaScript frameworks and databases, turning ideas into clean, functional, and scalable code. Always excited to learn new technologies and collaborate on innovative projects! 🚀
