@@ -40,8 +40,7 @@ My personal portfolio to showcase projects, skills, and contact info. Built with
 
 ## 📫 Contact Me
 - **Email:** [tooesa600@gmail.com](mailto:tooesa600@gmail.com)  
-- **LinkedIn:** [Suman Sunuwar](https://www.linkedin.com/in/sumansunuwar/)  
-- **Twitter / Other:** [@yourhandle](#)
+- **LinkedIn:** [Suman Sunuwar]()  
 
 ---
 
