@@ -27,18 +27,6 @@ I'm a **Full-Stack Developer** passionate about building web applications that s
 
 ---
 
-## 🚀 Projects
-
-### [StyleHub - E-Commerce](#)
-A full-stack fitness e-commerce platform built with **MERN stack**, featuring product browsing, shopping cart, and secure checkout.
-
-### [Portfolio Website](#)
-My personal portfolio to showcase projects, skills, and contact info. Built with **React** and **modern CSS**.
-
-*(More projects coming soon!)*
-
----
-
 ## 📫 Contact Me
 - **Email:** [tooesa600@gmail.com](mailto:tooesa600@gmail.com)  
 - **LinkedIn:** [Suman Sunuwar](https://www.linkedin.com/in/suman-sunuwar-54969a3a5/)  
