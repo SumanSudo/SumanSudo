@@ -1,10 +1,10 @@
-Readme · MD
-Copy
-
-# Hi, I'm Suman Sunuwar 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Suman%20Sunuwar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Nepal%20%F0%9F%87%B3%F0%9F%87%B5&descAlignY=58&descSize=20" width="100%"/>
+<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Suman+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+PostgreSQL;Building+things+that+matter+%F0%9F%8C%8D;Always+learning.+Always+shipping.+%E2%9C%A8)](https://git.io/typing-svg)
  
-**Full-Stack Developer** from Nepal — I build web apps that are clean, scalable, and solve real problems.  
-Always learning. Always shipping. 🚀
+</div>
+<br/>
+> 💡 I'm a **Full-Stack Developer** passionate about building web applications that solve real-world problems. I love working with modern JavaScript frameworks and databases — turning ideas into clean, functional, and scalable code.
  
 ---
  
@@ -37,20 +37,12 @@ Always learning. Always shipping. 🚀
  
 ---
  
-## 📊 GitHub Stats
- 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="160" />
-</p>
----
- 
 ## 📫 Let's Connect
  
-[![Email](https://img.shields.io/badge/Email-tooesa600@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tooesa600@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Suman%20Sunuwar-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suman-sunuwar-54969a3a5/)
+<div align="center">
+[![Email](https://img.shields.io/badge/Email-tooesa600@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tooesa600@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Suman%20Sunuwar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suman-sunuwar-54969a3a5/)
  
-> 💬 Open to collaborating on interesting projects — feel free to reach out!
+</div>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
